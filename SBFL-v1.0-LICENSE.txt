@@ -1,0 +1,165 @@
+Selfish But Fair License (SBFL) v1.0
+Copyright (c) [YEAR] the Original Author. All rights reserved.
+
+================================================================================
+
+PREAMBLE
+
+This license governs the use, reproduction, modification, and distribution of
+the software and associated documentation files (the "Software"). It is designed
+to allow open, collaborative development while protecting the commercial
+interests of the Original Author.
+
+The intent of this license is simple: people should be free to use, learn from,
+and contribute to this Software for personal, educational, and non-commercial
+purposes — but no one other than the Original Author may profit from it without
+a separate commercial agreement.
+
+================================================================================
+
+1. DEFINITIONS
+
+"Original Author" refers to the individual or entity who first published the
+Software under this license.
+
+"Contributor" refers to any individual or entity that submits a modification,
+addition, or improvement to the Software.
+
+"Commercial Use" means any use of the Software, in whole or in part, primarily
+intended for or directed toward commercial advantage or monetary compensation.
+This includes, but is not limited to: selling the Software, offering it as a
+paid service, incorporating it into a commercial product, or using it to
+directly generate revenue.
+
+"Non-Commercial Use" means use of the Software for personal projects, hobby
+projects, academic research, education, or by registered non-profit or
+charitable organisations, where no direct or indirect commercial advantage is
+sought.
+
+"The Work" refers to the Software as a whole, including all contributions made
+by Contributors.
+
+================================================================================
+
+2. GRANT OF NON-COMMERCIAL LICENSE
+
+Subject to the terms of this license, the Original Author grants you a
+worldwide, royalty-free, non-exclusive license to:
+
+  a) Use, copy, and run the Software for Non-Commercial Use;
+  b) Modify the Software and create derivative works for Non-Commercial Use;
+  c) Distribute copies of the Software or derivative works, provided this
+     license is included in full and the original copyright notice is preserved.
+
+The following are explicitly permitted under Non-Commercial Use:
+
+  - Personal and hobby projects, regardless of whether the Contributor receives
+    incidental recognition or non-monetary benefit;
+  - Use by non-profit organisations and registered charities in furtherance of
+    their charitable purposes;
+  - Use in educational settings, including schools, universities, and
+    self-directed learning.
+
+================================================================================
+
+3. COMMERCIAL USE RESERVED
+
+Commercial Use of the Software, in whole or in part, is reserved exclusively
+for the Original Author, except where a separate written commercial license
+has been granted.
+
+If you wish to use the Software for Commercial Use, you must contact the
+Original Author to obtain a commercial license. The Original Author reserves
+the right to grant or withhold commercial licenses at their discretion and to
+set any terms and fees they see fit.
+
+No implied license for Commercial Use is granted by this license, by
+contribution, or by any prior course of dealing.
+
+================================================================================
+
+4. CONTRIBUTIONS
+
+By submitting a Contribution to the Software (e.g. via pull request, patch,
+or similar), you agree to the following:
+
+  a) Copyright Retention: You retain full copyright over your own Contribution.
+     The Original Author does not claim ownership of your Contribution.
+
+  b) License Grant to the Project: You grant the Original Author and all users
+     of the Software a perpetual, worldwide, royalty-free, non-exclusive license
+     to use, reproduce, modify, and distribute your Contribution as part of the
+     Software, under the terms of this license.
+
+  c) Personal Use of Your Own Contribution: You may reuse your own specific
+     Contribution — the code you personally authored — in your own projects,
+     including for commercial purposes, provided you do not incorporate other
+     parts of the Software (the Work as a whole) into those commercial projects
+     without a commercial license.
+
+  d) No Commercial Use of the Whole: The right in clause (c) above applies only
+     to your isolated Contribution and not to the Software as a whole, or to any
+     substantial portion of the Software that includes code authored by others.
+
+  e) You confirm that your Contribution is your own original work, that you have
+     the right to license it under these terms, and that it does not knowingly
+     infringe any third-party intellectual property rights.
+
+================================================================================
+
+5. REDISTRIBUTION
+
+You may redistribute the Software or derivative works only under the following
+conditions:
+
+  a) This license is included in full with every copy or distribution;
+  b) You do not impose any additional restrictions that conflict with the terms
+     of this license;
+  c) The redistribution is for Non-Commercial Use only;
+  d) You clearly indicate any modifications you have made to the original
+     Software.
+
+================================================================================
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+ORIGINAL AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+7. TERMINATION
+
+Your rights under this license terminate automatically if you breach any of its
+terms. Upon termination, you must cease all use and distribution of the Software
+and destroy any copies in your possession.
+
+The Original Author may reinstate your rights at their discretion upon written
+notice.
+
+================================================================================
+
+8. GOVERNING LAW
+
+This license shall be governed by and construed in accordance with the laws of
+the jurisdiction in which the Original Author resides, without regard to
+conflict of law principles.
+
+================================================================================
+
+9. HOW TO APPLY THIS LICENSE
+
+To apply this license to your project, include the following notice in your
+repository and at the top of your source files:
+
+  Copyright (c) [YEAR] the Original Author
+  Licensed under the Selfish But Fair License (SBFL) v1.0
+  See LICENSE file for full terms.
+  Commercial use requires a separate written license from the Original Author.
+
+================================================================================
